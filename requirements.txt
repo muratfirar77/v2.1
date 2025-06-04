@@ -1,0 +1,11 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+psycopg2-binary # PostgreSQL için gerekli!
+pandas
+Werkzeug
+python-dotenv
+Flask-Cors
+lxml # XML işleme için önerilir
+gunicorn # Production WSGI sunucusu

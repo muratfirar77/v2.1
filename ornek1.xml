@@ -1,0 +1,31 @@
+<MuhasebeKayitlari Donem="2024-YILSONU">
+    <FirmaAdi>ABC Teknoloji A.Ş.</FirmaAdi>
+    <Hesaplar>
+        <Hesap Kodu="100" Aciklama="Kasa">
+            <Bakiye ParaBirimi="TRY">50000.00</Bakiye>
+        </Hesap>
+        <Hesap Kodu="102" Aciklama="Bankalar">
+            <Bakiye ParaBirimi="TRY">250000.00</Bakiye>
+        </Hesap>
+        <Hesap Kodu="120" Aciklama="Alıcılar">
+            <Bakiye ParaBirimi="TRY">150000.00</Bakiye>
+        </Hesap>
+        <Hesap Kodu="153" Aciklama="Ticari Mallar">
+            <Bakiye ParaBirimi="TRY">300000.00</Bakiye>
+        </Hesap>
+        <Hesap Kodu="300" Aciklama="Banka Kredileri (KV)">
+            <Bakiye ParaBirimi="TRY">100000.00</Bakiye>
+        </Hesap>
+        <Hesap Kodu="320" Aciklama="Satıcılar">
+            <Bakiye ParaBirimi="TRY">120000.00</Bakiye>
+        </Hesap>
+        <Hesap Kodu="500" Aciklama="Sermaye">
+            <Bakiye ParaBirimi="TRY">500000.00</Bakiye>
+        </Hesap>
+        <Hesap Kodu="600" Aciklama="Yurtiçi Satışlar">
+            <Bakiye ParaBirimi="TRY">1200000.00</Bakiye> </Hesap>
+    </Hesaplar>
+    <GenelToplamlar>
+        <AktifToplami>750000.00</AktifToplami>
+        <PasifToplami>720000.00</PasifToplami> </GenelToplamlar>
+</MuhasebeKayitlari>
